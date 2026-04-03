@@ -32,9 +32,3 @@ In 2026-27, I'll be on an exchange year at the **University of California San Di
 
 ### My Preferred Languages
 `Python` • `Scala` • `Kotlin` • `Haskell` • `Java` • `C` • `Swift`
-
----
-
-### Get in touch
-* **LinkedIn:** [linkedin.com/in/zayan-baig/](https://linkedin.com/in/zayan-baig/)
-* **Email:** zayanbaig01@gmail.com
