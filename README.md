@@ -14,10 +14,10 @@ In 2026-27, I'll be on an exchange year at the **University of California San Di
 <br>*Built a wearable assistive device for the visually impaired ([See it in action here](https://youtube.com/shorts/5JFepDx7p_Q))*
 
 * **Multimodal RAG PDF Processor**
-<br>*Currently processes PDF content for 300,000+ students who use [Palmify](https://palmify.ai/)!*
+<br>*Currently processes content for 300,000+ students who use [Palmify](https://palmify.ai/)!*
 
 * **WACC Compiler**
-<br>*Developed a C to x86-64 compiler in Scala*
+<br>*Developed a WACC to x86-64 compiler in Scala*
 
 * **PintOS**
 <br>*Made a C-based operating system implementing virtual memory and page replacement algorithms*
